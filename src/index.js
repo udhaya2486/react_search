@@ -8,6 +8,7 @@ import style from "./App.css";
 const App = () => {
   return (
     <div className={style.wrapper}>
+      <div>hi</div>
       <SearchContainer />
     </div>
   );
